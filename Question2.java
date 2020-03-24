@@ -7,7 +7,7 @@ public class Question2
     /**
      * Prompts user for height and weight, calculate and print out the height and weight of the user
      * 
-     * Hint: System.out.println(...)
+     * Hint: in.nextDouble() to read double
      */
      
      Scanner in = new Scanner(System.in);
