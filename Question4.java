@@ -5,7 +5,7 @@ public class Question4
   public static void main(String[] args)
   {
     /**
-     * Prints a right angle triangle with “*”. The base of the triangle depends on the integer given.
+     * Prints a right angle triangle with *. The base of the triangle depends on the integer given.
      *    e.g.
      *     > 5
      *     *****
