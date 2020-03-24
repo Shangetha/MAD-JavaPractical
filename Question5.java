@@ -16,6 +16,13 @@ public class Question5
      *     > 4
      *     4
      * 
+     *    e.g.
+     *     > 4
+     *     > 2
+     *     > 2
+     *     > 3
+     *     > 3
+     *     2
      * Hint: Use a loop to get input. Use another 2 loops to find the mode
      */
      
